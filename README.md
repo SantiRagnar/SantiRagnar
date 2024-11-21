@@ -1,6 +1,6 @@
 # 👋 Hola, soy Santiago Barrios  
 
-💻 **Full Stack Developer** con gran experiencia en desarrollo. Estoy apasionado por crear soluciones eficientes y escalables que hagan la vida más fácil a las personas.  
+💻 **Full Stack Developer** con gran experiencia en desarrollo. Soy apasionado por crear soluciones eficientes y escalables que hagan la vida más fácil a las personas.  
 
 ---
 
@@ -15,9 +15,11 @@
 
 ### **Frontend:**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)  
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)  
 ![Material UI](https://img.shields.io/badge/-Material--UI-0081CB?logo=mui&logoColor=white&style=flat)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat) 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
 
 ### **Backend:**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)  
@@ -27,7 +29,9 @@
 ### **Otras tecnologías:**  
 ![Cordova](https://img.shields.io/badge/-Cordova-E8E8E8?logo=apache-cordova&logoColor=black&style=flat)  
 ![WebSockets](https://img.shields.io/badge/-WebSockets-333333?style=flat)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white&style=flat)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white&style=flat) 
+![NoSQL](https://img.shields.io/badge/-NoSQL-78C143?logo=mongodb&logoColor=white&style=flat)  
+
 
 ---
 
